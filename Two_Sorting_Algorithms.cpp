@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
-//Name: Zhyar Nasruddin 
-//Marticulation Number: 2327135
+
 
 
 void sort1(int p[],int q){
